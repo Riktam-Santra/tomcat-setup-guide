@@ -4,8 +4,8 @@ Setting up the environment mainly includes configuration of two components:
 - Apache Tomcat
 - IntelliJ IDE
 
->[!WARNING]
->**Important:** An internet connection is required at all times during the setup of the project.
+> [!WARNING]
+> **Important:** An internet connection is required at all times during the setup of the project.
 
 ## Installing Tomcat 9
 - Download Apache Tomcat 9.0.115 using [this link.](https://dlcdn.apache.org/tomcat/tomcat-9/v9.0.115/bin/apache-tomcat-9.0.115-windows-x64.zip)
